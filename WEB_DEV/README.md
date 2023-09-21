@@ -30,4 +30,6 @@
     3. [appwrite.io](https://appwrite.io)
     4. [Git](https://git-scm.com/about) + [GitHub](https://www.techtarget.com/searchitoperations/definition/GitHub) + [Replit](https://docs.replit.com/getting-started/intro-replit)
     5. [Google Cloud](https://cloud.google.com/docs/overview) + [Microsoft Azure](https://azure.microsoft.com/en-in/get-started)
-    6. [Cloudflare](https://www.cloudflare.com/learning/what-is-cloudflare) + [Netlify](https://www.netlify.com) + [Render](https://render.com)
+- [ ] Phase 5 - `Deployment`
+    1. [Cloudflare](https://www.cloudflare.com/learning/what-is-cloudflare) + [Netlify](https://www.netlify.com) *(Client hosting)*
+    2. [Render](https://render.com) + [Vercel](https://vercel.com) + [Cyclic](https://www.cyclic.sh) *(Client & Server hosting)*
