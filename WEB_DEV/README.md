@@ -32,4 +32,4 @@
     5. [Google Cloud](https://cloud.google.com/docs/overview) + [Microsoft Azure](https://azure.microsoft.com/en-in/get-started)
 - [ ] Phase 5 - `Deployment`
     1. [Cloudflare](https://www.cloudflare.com/learning/what-is-cloudflare) + [Netlify](https://www.netlify.com) *(Client hosting)*
-    2. [Render](https://render.com) + [Vercel](https://vercel.com) + [Cyclic](https://www.cyclic.sh) *(Client & Server hosting)*
+    2. [Render](https://render.com) + [Vercel](https://vercel.com) + [Cyclic](https://www.cyclic.sh) + [Railway](https://www.railway.app) *(Client & Server hosting)*
